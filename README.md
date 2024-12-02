@@ -3,13 +3,13 @@
 This repository showcases an implementation of the Builder design pattern in C#. The code demonstrates how to create complex objects step-by-step, enabling different representations of the object to be built using the same construction process. This pattern is useful for creating objects that need to be constructed in a specific sequence and when different variations of an object need to be supported.
 
 ## Table of Contents
-- Introduction
-- Implementation Overview
-- Installation
-- Usage
-- Contributing
-- License
-- Contact
+1. [Introduction](#introduction)
+2. [Implementation Overview](#implementation-overview)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
 ## Introduction
 The Builder design pattern is a creational pattern that separates the construction of a complex object from its representation, allowing the same construction process to create different representations. This pattern is particularly helpful when an object needs to be built with various configurations or components in a controlled manner.
@@ -48,12 +48,12 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 1. Fork the repository.
 2. Create a new branch (e.g., `git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m "Add some feature"`).
-4. Push to the branch (`git push origin feature/YourFeature`).
+3. Make your changes and commit them (e.g., `git commit -m "Add some feature"`).
+4. Push to the branch (e.g., `git push origin feature/YourFeature`).
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE file](LICENSE.txt) for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 For any inquiries, feel free to reach out at jouya.m@gmail.com.
