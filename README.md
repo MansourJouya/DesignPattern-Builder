@@ -27,13 +27,13 @@ This repository provides a C# implementation of the Builder design pattern for c
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/DesignPatterns-Builder.git
+git clone https://github.com/MansourJouya/DesignPattern-Builder.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd DesignPatterns-Builder
+cd DesignPattern-Builder
 ```
 
 Open the solution in Visual Studio or your preferred C# development environment to explore the implementation.
@@ -53,7 +53,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE file](./LICENSE.txt) for details.
+This project is licensed under the MIT License. See the [LICENSE file](LICENSE.txt) for details.
 
 ## Contact
 For any inquiries, feel free to reach out at jouya.m@gmail.com.
